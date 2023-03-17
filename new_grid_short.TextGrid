@@ -1,0 +1,22 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+0.0
+1.0
+<exists>
+2
+"IntervalTier"
+"new tier"
+0.0
+1.0
+1
+0.0
+1.0
+"some text"
+"TextTier"
+"new point tier"
+0.0
+0.5
+1
+0.5
+"some text"
