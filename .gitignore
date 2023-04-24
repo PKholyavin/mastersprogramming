@@ -3,3 +3,7 @@ news.txt
 fiction.txt
 spont.txt
 spont_trans.txt
+emoji_corpus.py
+gensim_demo.ipynb
+.gitignore
+emoji.pkl
