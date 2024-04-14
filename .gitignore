@@ -8,3 +8,5 @@ gensim_demo.ipynb
 .gitignore
 emoji.pkl
 pitchmarks_hometask.ipynb
+longchar.cpp
+UnicodeData.h
