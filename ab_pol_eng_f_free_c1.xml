@@ -1,0 +1,1378 @@
+<session s-id="ab_pol_eng_f_free_c1" day="14" month="03" year="2002">
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session">
+		<desc><name>IMDI</name><val>IMDI/Session</val></desc>
+		<desc><name>Name</name><val>ab_pol_eng_f_free_c1</val></desc>
+		<desc><name>Title</name><val>ab being interviewed</val></desc>
+		<desc><name>Date</name><val>2001-10-30</val></desc>
+		<desc><name>Description</name><val>Participant "ab" being interviewed in target language English</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup</val></desc>
+		<desc><name>Collector</name><val>AT</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Location">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Location</val></desc>
+		<desc><name>Continent</name><val>Europe</val></desc>
+		<desc><name>Country</name><val>Germany</val></desc>
+		<desc><name>Region</name><val/></desc>
+		<desc><name>Address</name><val>Bielefeld</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Content">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Content</val></desc>
+		<desc><name>Task</name><val>interview</val></desc>
+		<desc><name>Modalities</name><val>speech</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Content/CommunicationContext">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Content/CommunicationContext</val></desc>
+		<desc><name>Interactivity</name><val>interactive</val></desc>
+		<desc><name>PlanningType</name><val>planned</val></desc>
+		<desc><name>Involvement</name><val>elicited</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Content/Genre">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Content/Genre</val></desc>
+		<desc><name>Interactional</name><val/></desc>
+		<desc><name>Discursive</name><val/></desc>
+		<desc><name>Performance</name><val/></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Content/Languages/Language">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Content/Languages/Language</val></desc>
+		<desc><name>Id</name><val>ISO639-2:eng</val></desc>
+		<desc><name>Name</name><val>English</val></desc>
+		<desc><name>Description</name><val>target language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]</val></desc>
+		<desc><name>Type</name><val>interviewee</val></desc>
+		<desc><name>Name</name><val>ab</val></desc>
+		<desc><name>FullName</name><val>Anonymous</val></desc>
+		<desc><name>Code</name><val/></desc>
+		<desc><name>Role</name><val/></desc>
+		<desc><name>EthnicGroup</name><val/></desc>
+		<desc><name>Age</name><val>30</val></desc>
+		<desc><name>Sex</name><val>Female</val></desc>
+		<desc><name>Education</name><val/></desc>
+		<desc><name>Anonymous</name><val>true</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language[1]">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language[1]</val></desc>
+		<desc><name>Id</name><val>ISO639-2:pol</val></desc>
+		<desc><name>Name</name><val>Polish</val></desc>
+		<desc><name>Description</name><val>native language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language[2]">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language[2]</val></desc>
+		<desc><name>Id</name><val>ISO639-2:eng</val></desc>
+		<desc><name>Name</name><val>English</val></desc>
+		<desc><name>Description</name><val>target language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language3">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language3</val></desc>
+		<desc><name>Id</name><val>ISO639-2:jpn</val></desc>
+		<desc><name>Name</name><val>Japanese</val></desc>
+		<desc><name>Description</name><val>other language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language4">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language4</val></desc>
+		<desc><name>Id</name><val>ISO639-2:rus</val></desc>
+		<desc><name>Name</name><val>Russian</val></desc>
+		<desc><name>Description</name><val>other language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language5">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language5</val></desc>
+		<desc><name>Id</name><val>ISO639-2:deu</val></desc>
+		<desc><name>Name</name><val>German</val></desc>
+		<desc><name>Description</name><val>other language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language6">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Languages/Language6</val></desc>
+		<desc><name>Id</name><val>ISO639-2:fre</val></desc>
+		<desc><name>Name</name><val>French</val></desc>
+		<desc><name>Description</name><val>other language</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[1]/Keys">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[1]/Keys</val></desc>
+		<desc><name>Motivation</name><val/></desc>
+		<desc><name>MostImportantAspect</name><val>vocabulary</val></desc>
+		<desc><name>WhyLearningLanguage</name><val>important for business, important language</val></desc>
+		<desc><name>WishToSoundNative</name><val>5</val></desc>
+		<desc><name>ProsodicInstruction</name><val>0</val></desc>
+		<desc><name>ActingScore</name><val>2</val></desc>
+		<desc><name>MusicalScore</name><val>4</val></desc>
+		<desc><name>WishToIntegrate</name><val>not that important</val></desc>
+		<desc><name>ProsodicKnowledge</name><val/></desc>
+		<desc><name>HowMuchContact</name><val/></desc>
+		<desc><name>TypeOfLearning</name><val>formal</val></desc>
+		<desc><name>AgeOfOnset</name><val>13</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/MDGroup/Actors/Actor[2]">
+		<desc><name>IMDI</name><val>IMDI/Session/MDGroup/Actors/Actor[2]</val></desc>
+		<desc><name>Type</name><val>interviewer</val></desc>
+		<desc><name>Name</name><val>AT</val></desc>
+		<desc><name>Sex</name><val>Female</val></desc>
+		<desc><name>Anonymous</name><val>true</val></desc>
+	</meta>
+	<meta m-id="ab_pol_eng_f_free_c1:IMDI/Session/Resources/WrittenResource">
+		<desc><name>IMDI</name><val>IMDI/Session/Resources/WrittenResource</val></desc>
+		<desc><name>Annotator</name><val>AT</val></desc>
+		<desc><name>Type</name><val>Unspecified</val></desc>
+		<desc><name>Format</name><val>TASX</val></desc>
+		<desc><name>CharacterEncoding</name><val>UTF-8</val></desc>
+	</meta>
+	<layer l-id="ab_pol_eng_f_free_c1:vowels">
+		<meta m-id="ab_pol_eng_f_free_c1:vowels:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>vowels</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:0" start="0" end="74.420145"/>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:1" start="74.420145" end="74.493821">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:2" start="74.493821" end="74.546103">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:3" start="74.546103" end="74.764735">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:4" start="74.764735" end="74.802758">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:5" start="74.802758" end="75.071295">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:6" start="75.071295" end="76.276143">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:7" start="76.276143" end="76.364066">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:8" start="76.364066" end="76.432983">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:9" start="76.432983" end="76.461500">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:10" start="76.461500" end="76.615968">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:11" start="76.615968" end="76.794201">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:12" start="76.794201" end="76.901141">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:13" start="76.901141" end="76.981939">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:14" start="76.981939" end="77.105514">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:15" start="77.105514" end="77.314640">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:16" start="77.314640" end="77.364545">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:17" start="77.364545" end="77.485744">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:18" start="77.485744" end="77.561789">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:19" start="77.561789" end="77.713881">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:20" start="77.713881" end="77.761404">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:21" start="77.761404" end="77.835074">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:22" start="77.835074" end="77.965778">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:23" start="77.965778" end="78.037071">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:24" start="78.037071" end="78.184410">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:25" start="78.184410" end="78.227186">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:26" start="78.227186" end="78.326996">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:27" start="78.326996" end="81.471006">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:28" start="81.471006" end="81.542299">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:29" start="81.542299" end="81.684885">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:30" start="81.684885" end="81.889259">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:31" start="81.889259" end="82.699623">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:32" start="82.699623" end="82.782791">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:33" start="82.782791" end="82.865967">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:34" start="82.865967" end="82.939636">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:35" start="82.939636" end="83.025188">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:36" start="83.025188" end="83.203420">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:37" start="83.203420" end="83.250949">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:38" start="83.250949" end="83.334124">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:39" start="83.334124" end="83.448193">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:40" start="83.448193" end="83.690589">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:41" start="83.690589" end="83.771388">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:42" start="83.771388" end="84.047055">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:43" start="84.047055" end="88.184396">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:44" start="88.184396" end="88.419663">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:45" start="88.419663" end="88.462439">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:46" start="88.462439" end="88.650177">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:47" start="88.650177" end="88.714341">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:48" start="88.714341" end="88.778504">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:49" start="88.778504" end="88.887820">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:50" start="88.887820" end="91.711016">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:51" start="91.711016" end="91.915384">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:52" start="91.915384" end="92.029453">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:53" start="92.029453" end="92.084111">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:54" start="92.084111" end="92.219568">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:55" start="92.219568" end="92.452459">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:56" start="92.452459" end="94.056176">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:57" start="94.056176" end="94.147067">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:58" start="94.147067" end="94.237371">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:59" start="94.237371" end="94.282524">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:60" start="94.282524" end="94.401345">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:61" start="94.401345" end="94.641365">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:62" start="94.641365" end="94.715035">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:63" start="94.715035" end="94.936043">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:64" start="94.936043" end="94.990701">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:65" start="94.990701" end="95.232511">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:66" start="95.232511" end="95.455896">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:67" start="95.455896" end="95.523017">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:68" start="95.523017" end="95.739273">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:69" start="95.739273" end="95.955528">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:70" start="95.955528" end="96.140674">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:71" start="96.140674" end="98.184613">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:72" start="98.184613" end="98.217883">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:73" start="98.217883" end="98.265412">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:74" start="98.265412" end="98.555337">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:75" start="98.555337" end="98.667029">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:76" start="98.667029" end="98.857144">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:77" start="98.857144" end="98.983095">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:78" start="98.983095" end="99.130434">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:79" start="99.130434" end="99.292032">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:80" start="99.292032" end="99.334808">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:81" start="99.334808" end="99.375207">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:82" start="99.375207" end="99.429865">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:83" start="99.429865" end="99.517793">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:84" start="99.517793" end="99.610474">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:85" start="99.610474" end="99.779201">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:86" start="99.779201" end="109.470339">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:87" start="109.470339" end="109.539250">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:88" start="109.539250" end="109.596284">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:89" start="109.596284" end="109.686589">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:90" start="109.686589" end="109.760258">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:91" start="109.760258" end="109.971761">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:92" start="109.971761" end="110.097712">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:93" start="110.097712" end="110.546858">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:94" start="110.546858" end="110.763114">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:95" start="110.763114" end="110.810638">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:96" start="110.810638" end="110.908072">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:97" start="110.908072" end="111.034023">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:98" start="111.034023" end="111.086304">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:99" start="111.086304" end="111.221761">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:100" start="111.221761" end="111.323948">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:101" start="111.323948" end="111.433268">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:102" start="111.433268" end="111.927562">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:103" start="111.927562" end="111.958451">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:104" start="111.958451" end="112.060638">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:105" start="112.060638" end="112.329175">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:106" start="112.329175" end="112.374327">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:107" start="112.374327" end="112.512161">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:108" start="112.512161" end="112.576324">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:109" start="112.576324" end="112.944672">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:110" start="112.944672" end="113.170433">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:111" start="113.170433" end="113.332031">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:112" start="113.332031" end="113.427088">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:113" start="113.427088" end="113.581550">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:114" start="113.581550" end="113.645714">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:115" start="113.645714" end="113.764536">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:116" start="113.764536" end="113.821570">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:117" start="113.821570" end="113.926133">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:118" start="113.926133" end="113.976038">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:119" start="113.976038" end="114.204176">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:120" start="114.204176" end="114.353892">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:121" start="114.353892" end="114.570147">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:122" start="114.570147" end="114.596288">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:123" start="114.596288" end="114.669957">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:124" start="114.669957" end="114.717486">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:125" start="114.717486" end="114.936113">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:126" start="114.936113" end="115.247425">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:127" start="115.247425" end="115.449422">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:128" start="115.449422" end="116.159972">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:129" start="116.159972" end="116.197995">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:130" start="116.197995" end="116.224136">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:131" start="116.224136" end="116.392863">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:132" start="116.392863" end="116.770716">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:133" start="116.770716" end="116.927561">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:134" start="116.927561" end="116.994101">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:135" start="116.994101" end="117.115299">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:136" start="117.115299" end="117.153322">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:137" start="117.153322" end="117.253132">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:138" start="117.253132" end="117.329178">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:139" start="117.329178" end="117.531175">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:140" start="117.531175" end="117.742678">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:141" start="117.742678" end="117.856740">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:142" start="117.856740" end="117.961303">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:143" start="117.961303" end="118.184688">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:144" start="118.184688" end="118.305886">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:145" start="118.305886" end="118.595811">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:146" start="118.595811" end="119.246950">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:147" start="119.246950" end="119.303984">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:148" start="119.303984" end="119.380030">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:149" start="119.380030" end="119.429935">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:150" start="119.429935" end="119.486970">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:151" start="119.486970" end="119.527369">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:152" start="119.527369" end="119.795906">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:153" start="119.795906" end="119.969386">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:154" start="119.969386" end="120.140489">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:155" start="120.140489" end="120.192771">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:156" start="120.192771" end="120.344863">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:157" start="120.344863" end="120.458932">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:158" start="120.458932" end="120.584883">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:159" start="120.584883" end="120.630035">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:160" start="120.630035" end="121.017388">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:161" start="121.017388" end="121.174232">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:162" start="121.174232" end="121.416629">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:163" start="121.416629" end="121.756459">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:164" start="121.756459" end="122.008361">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:165" start="122.008361" end="122.481267">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:166" start="122.481267" end="122.521667">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:167" start="122.521667" end="122.775945">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:168" start="122.775945" end="122.837733">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:169" start="122.837733" end="122.925661">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:170" start="122.925661" end="123.063494">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:171" start="123.063494" end="123.766914">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:172" start="123.766914" end="123.826325">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:173" start="123.826325" end="123.885736">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:174" start="123.885736" end="124.033075">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:175" start="124.033075" end="124.187543">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:176" start="124.187543" end="124.339635">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:177" start="124.339635" end="124.441821">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:178" start="124.441821" end="124.736499">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:179" start="124.736499" end="202.447047">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:180" start="202.447047" end="202.479074">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:181" start="202.479074" end="202.512345">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:182" start="202.512345" end="202.638586">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:183" start="202.638586" end="202.807313">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:184" start="202.807313" end="202.945146">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:185" start="202.945146" end="203.011686">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:186" start="203.011686" end="203.066344">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:187" start="203.066344" end="203.106743">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:188" start="203.106743" end="203.256459">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:189" start="203.256459" end="203.320623">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:190" start="203.320623" end="203.399045">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:191" start="203.399045" end="203.484597">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:192" start="203.484597" end="203.643818">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:193" start="203.643818" end="203.860073">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:194" start="203.860073" end="203.941162">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:195" start="203.941162" end="205.150465">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:196" start="205.150465" end="205.221758">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:197" start="205.221758" end="205.331074">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:198" start="205.331074" end="205.506931">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:199" start="205.506931" end="205.623376">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:200" start="205.623376" end="205.934689">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:201" start="205.934689" end="206.036876">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:202" start="206.036876" end="206.148568">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:203" start="206.148568" end="206.188967">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:204" start="206.188967" end="206.286401">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:205" start="206.286401" end="206.331554">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:206" start="206.331554" end="206.977944">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:207" start="206.977944" end="207.274992">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:208" start="207.274992" end="207.562541">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:209" start="207.562541" end="207.816819">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:210" start="207.816819" end="208.071098">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:211" start="208.071098" end="209.047807">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:212" start="209.047807" end="209.148310">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:213" start="209.148310" end="209.224356">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:214" start="209.224356" end="209.507152">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:215" start="209.507152" end="209.766183">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:216" start="209.766183" end="210.037097">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:217" start="210.037097" end="210.091749">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:218" start="210.091749" end="210.229582">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:219" start="210.229582" end="210.281864">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:220" start="210.281864" end="210.381674">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:221" start="210.381674" end="210.431579">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:222" start="210.431579" end="210.802303">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:223" start="210.802303" end="210.871220">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:224" start="210.871220" end="211.161145">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:225" start="211.161145" end="211.187285">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:226" start="211.187285" end="211.467705">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:227" start="211.467705" end="211.541374">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:228" start="211.541374" end="211.691090">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:229" start="211.691090" end="211.736242">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:230" start="211.736242" end="211.983391">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:231" start="211.983391" end="212.270933">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:232" start="212.270933" end="212.361238">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:233" start="212.361238" end="212.451542">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:234" start="212.451542" end="212.712950">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:235" start="212.712950" end="212.812760">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:236" start="212.812760" end="212.960099">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:237" start="212.960099" end="213.114567">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:238" start="213.114567" end="213.254777">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:239" start="213.254777" end="213.399740">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:240" start="213.399740" end="213.587473">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:241" start="213.587473" end="213.673024">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:242" start="213.673024" end="213.782340">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:243" start="213.782340" end="213.877398">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:244" start="213.877398" end="213.953444">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:245" start="213.953444" end="214.145935">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:246" start="214.145935" end="214.202969">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:247" start="214.202969" end="214.262380">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:248" start="214.262380" end="214.345555">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:249" start="214.345555" end="214.611716">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:250" start="214.611716" end="214.649739">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:251" start="214.649739" end="214.732914">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:252" start="214.732914" end="214.787572">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:253" start="214.787572" end="215.020463">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:254" start="215.020463" end="215.067991">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:255" start="215.067991" end="215.246224">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:256" start="215.246224" end="215.626447">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:257" start="215.626447" end="215.818938">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:258" start="215.818938" end="216.807535">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:259" start="216.807535" end="216.885951">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:260" start="216.885951" end="217.232910">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:261" start="217.232910" end="218.233389">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:262" start="218.233389" end="218.375315">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:263" start="218.375315" end="218.420468">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:264" start="218.420468" end="218.544042">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:265" start="218.544042" end="218.593947">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:266" start="218.593947" end="218.653358">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:267" start="218.653358" end="218.696134">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:268" start="218.696134" end="218.843473">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:269" start="218.843473" end="218.957542">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:270" start="218.957542" end="219.000318">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:271" start="219.000318" end="219.088239">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:272" start="219.088239" end="219.157156">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:273" start="219.157156" end="219.278354">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:274" start="219.278354" end="219.739382">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:275" start="219.739382" end="219.851075">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:276" start="219.851075" end="219.891474">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:277" start="219.891474" end="219.948508">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:278" start="219.948508" end="220.105353">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:279" start="220.105353" end="220.283586">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:280" start="220.283586" end="220.492712">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:281" start="220.492712" end="220.580640">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:282" start="220.580640" end="220.896706">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:283" start="220.896706" end="220.975122">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:284" start="220.975122" end="221.219895">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:285" start="221.219895" end="221.455162">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:286" start="221.455162" end="221.740334">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:287" start="221.740334" end="221.880544">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:288" start="221.880544" end="222.113434">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:289" start="222.113434" end="222.153834">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:290" start="222.153834" end="222.248891">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:291" start="222.248891" end="222.334443">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:292" start="222.334443" end="222.488911">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:293" start="222.488911" end="222.591098">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:294" start="222.591098" end="222.919046">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:295" start="222.919046" end="255.934725">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:296" start="255.934725" end="256.072558">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:297" start="256.072558" end="256.160486">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:298" start="256.160486" end="256.205639">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:299" start="256.205639" end="256.455164">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:300" start="256.455164" end="256.823512">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:301" start="256.823512" end="257.256015">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:302" start="257.256015" end="257.301167">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:303" start="257.301167" end="257.370084">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:304" start="257.370084" end="257.410483">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:305" start="257.410483" end="257.610104">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:306" start="257.610104" end="257.847747">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:307" start="257.847747" end="259.898603">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:308" start="259.898603" end="259.986531">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:309" start="259.986531" end="260.114859">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:310" start="260.114859" end="260.183776">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:311" start="260.183776" end="260.440430">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:312" start="260.440430" end="260.511724">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:313" start="260.511724" end="260.637675">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:314" start="260.637675" end="260.661439">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:315" start="260.661439" end="260.778759">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:316" start="260.778759" end="260.833417">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:317" start="260.833417" end="261.006896">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:318" start="261.006896" end="261.033037">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:319" start="261.033037" end="261.235034">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:320" start="261.235034" end="261.325339">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:321" start="261.325339" end="261.567735">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:322" start="261.567735" end="261.908290">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:323" start="261.908290" end="262.136428">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:324" start="262.136428" end="262.262379">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:325" start="262.262379" end="262.362189">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:326" start="262.362189" end="262.409718">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:327" start="262.409718" end="262.649738">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:328" start="262.649738" end="262.763807">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:329" start="262.763807" end="263.103637">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:330" start="263.103637" end="263.182059">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:331" start="263.182059" end="263.360292">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:332" start="263.360292" end="263.526635">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:333" start="263.526635" end="265.910191">PAUSE</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:334" start="265.910191" end="266.059907">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:335" start="266.059907" end="266.133576">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:336" start="266.133576" end="266.195364">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:337" start="266.195364" end="266.371220">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:338" start="266.371220" end="266.409243">V</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:339" start="266.409243" end="266.532817">C</event>
+		<event e-id="ab_pol_eng_f_free_c1:vowels:340" start="266.532817" end="266.646886">V</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:phrase">
+		<meta m-id="ab_pol_eng_f_free_c1:phrase:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>phrase</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:0" start="0" end="74.420145">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:1" start="74.420145" end="75.071295">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:2" start="75.071295" end="76.276143">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:3" start="76.276143" end="76.981939">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:4" start="76.981939" end="77.105514">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:5" start="77.105514" end="77.713881">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:6" start="77.713881" end="77.761404">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:7" start="77.761404" end="78.327001">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:8" start="78.327001" end="81.471006">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:9" start="81.471006" end="81.889259">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:10" start="81.889259" end="82.699623">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:11" start="82.699623" end="84.047055">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:12" start="84.047055" end="88.184396">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:13" start="88.184396" end="88.887820">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:14" start="88.887820" end="91.711016">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:15" start="91.711016" end="92.452459">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:16" start="92.452459" end="94.056176">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:17" start="94.056176" end="95.232511">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:18" start="95.232511" end="95.455896">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:19" start="95.455896" end="96.140674">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:20" start="96.140674" end="98.184613">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:21" start="98.184613" end="98.555337">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:22" start="98.555337" end="98.667029">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:23" start="98.667029" end="99.779201">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:24" start="99.779201" end="109.470339">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:25" start="109.470339" end="110.546858">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:26" start="110.546858" end="110.763114">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:27" start="110.763114" end="111.433268">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:28" start="111.433268" end="111.927562">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:29" start="111.927562" end="113.270293">E</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:30" start="113.270293" end="115.449422">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:31" start="115.449422" end="116.159972">breath</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:32" start="116.159972" end="118.595811">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:33" start="118.595811" end="119.246950">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:34" start="119.246950" end="121.416629">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:35" start="121.416629" end="121.756459">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:36" start="121.756459" end="122.008361">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:37" start="122.008361" end="122.481267">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:38" start="122.481267" end="123.063494">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:39" start="123.063494" end="123.766914">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:40" start="123.766914" end="124.736499">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:41" start="124.736499" end="202.447047">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:42" start="202.447047" end="203.941162">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:43" start="203.941162" end="205.150465">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:44" start="205.150465" end="205.877397">e</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:45" start="205.877397" end="206.658194">e</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:46" start="206.658194" end="208.071098">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:47" start="208.071098" end="209.047807">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:48" start="209.047807" end="209.766183">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:49" start="209.766183" end="210.037097">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:50" start="210.037097" end="211.983391">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:51" start="211.983391" end="212.270933">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:52" start="212.270933" end="212.712950">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:53" start="212.712950" end="212.812760">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:54" start="212.812760" end="213.399740">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:55" start="213.399740" end="213.587473">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:56" start="213.587473" end="214.611716">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:57" start="214.611716" end="214.649739">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:58" start="214.649739" end="215.818938">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:59" start="215.818938" end="216.807535">breath</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:60" start="216.807535" end="217.232910">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:61" start="217.232910" end="218.233389">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:62" start="218.233389" end="219.278354">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:63" start="219.278354" end="219.739382">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:64" start="219.739382" end="222.919039">p</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:65" start="222.919039" end="255.934725">int</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:66" start="255.934725" end="256.823512">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:67" start="256.823512" end="257.256015">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:68" start="257.256015" end="257.847747">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:69" start="257.847747" end="259.898603">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:70" start="259.898603" end="260.637675">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:71" start="260.637675" end="260.661439">pause</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:72" start="260.661439" end="262.110428">e</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:73" start="262.110428" end="263.526635">up</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:74" start="263.526635" end="265.910191">hp</event>
+		<event e-id="ab_pol_eng_f_free_c1:phrase:75" start="265.910191" end="266.646886">sim</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:syll">
+		<meta m-id="ab_pol_eng_f_free_c1:syll:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>syll</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:syll:0" start="0" end="74.420145"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:1" start="74.420145" end="74.676807">jes</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:2" start="74.676807" end="75.071295">dZ@st</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:3" start="75.071295" end="76.276143"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:4" start="76.276143" end="76.390207">O</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:5" start="76.390207" end="76.490017">ni</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:6" start="76.490017" end="76.858365">fOr\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:7" start="76.858365" end="76.981939">r\E</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:8" start="76.981939" end="77.105514"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:9" start="77.105514" end="77.383557">kwQ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:10" start="77.383557" end="77.713881">ta_h</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:11" start="77.713881" end="77.761404"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:12" start="77.761404" end="77.918249">Qf</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:13" start="77.918249" end="78.037071">f@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:14" start="78.037071" end="78.326996">jir\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:15" start="78.326996" end="81.471006"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:16" start="81.471006" end="81.889259">wE5</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:17" start="81.889259" end="82.699623"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:18" start="82.699623" end="82.865967">tY</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:19" start="82.865967" end="83.203420">wiks</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:20" start="83.203420" end="83.317489">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:21" start="83.317489" end="84.047055">fOr\t</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:22" start="84.047055" end="88.184396"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:23" start="88.184396" end="88.298465">t</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:24" start="88.298465" end="88.547990">san</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:25" start="88.547990" end="88.714341">dje</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:26" start="88.714341" end="88.887820">M\O</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:27" start="88.887820" end="91.711016"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:28" start="91.711016" end="92.043712">stA</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:29" start="92.043712" end="92.452459">dINk</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:30" start="92.452459" end="94.056176"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:31" start="94.056176" end="94.236785">kr\aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:32" start="94.236785" end="94.331843">dI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:33" start="94.331843" end="94.540969">eIt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:34" start="94.540969" end="94.816635">kOr\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:35" start="94.816635" end="95.232511">sIs</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:36" start="95.232511" end="95.455896"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:37" start="95.455896" end="95.629957">{n</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:38" start="95.629957" end="95.862847">soU</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:39" start="95.862847" end="96.140674">Qn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:40" start="96.140674" end="98.184613"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:41" start="98.184613" end="98.555337">j6s</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:42" start="98.555337" end="98.667029"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:43" start="98.667029" end="98.816745">aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:44" start="98.816745" end="98.914179">In</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:45" start="98.914179" end="99.204104">dZoId</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:46" start="99.204104" end="99.334808">v3</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:47" start="99.334808" end="99.429865">r\I</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:48" start="99.429865" end="99.779201">matS</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:49" start="99.779201" end="109.470339"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:50" start="109.470339" end="109.620048">v3r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:51" start="109.620048" end="109.722235">r\I</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:52" start="109.722235" end="109.876703">Im</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:53" start="109.876703" end="110.149993">pfO</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:54" start="110.149993" end="110.546858">tnt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:55" start="110.546858" end="110.763114"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:56" start="110.763114" end="111.034023">k@s</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:57" start="111.034023" end="111.114822">6</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:58" start="111.114822" end="111.433268">meId</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:59" start="111.433268" end="111.927562"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:60" start="111.927562" end="112.027368">De</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:61" start="112.027368" end="112.236494">Iks</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:62" start="112.236494" end="112.393339">pir\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:63" start="112.393339" end="112.830603">r\i@ns</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:64" start="112.830603" end="113.270243">D{t</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:65" start="113.270243" end="113.496005">aIm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:66" start="113.496005" end="113.728895">nOt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:67" start="113.728895" end="113.907122">An</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:68" start="113.907122" end="113.997426">d@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:69" start="113.997426" end="114.446573">stUd</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:70" start="114.446573" end="114.629558">k@r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:71" start="114.629558" end="114.905224">r\Ekt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:72" start="114.905224" end="115.171385">lI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:73" start="115.171385" end="115.449422">End</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:74" start="115.449422" end="116.159972"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:75" start="116.159972" end="116.312064">pIp</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:76" start="116.312064" end="116.414251">pj6</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:77" start="116.414251" end="116.523567">A</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:78" start="116.523567" end="116.770716">O@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:79" start="116.770716" end="117.048759">lUk</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:80" start="117.048759" end="117.253132">kINk</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:81" start="117.253132" end="117.393342">E_}</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:82" start="117.393342" end="117.780701">mi</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:83" start="117.780701" end="118.184688">dZAs</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:84" start="118.184688" end="118.595811">@s</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:85" start="118.595811" end="119.246950"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:86" start="119.246950" end="119.303984">6</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:87" start="119.303984" end="119.463205">v3r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:88" start="119.463205" end="119.527369">r\I</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:89" start="119.527369" end="120.121478">str\eInZ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:90" start="120.121478" end="120.192771">@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:91" start="120.192771" end="120.506460">pir\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:92" start="120.506460" end="121.017388">r\Ins</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:93" start="121.017388" end="121.416629">Ent</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:94" start="121.416629" end="121.756459"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:95" start="121.756459" end="122.008361">w@5</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:96" start="122.008361" end="122.481267"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:97" start="122.481267" end="122.733169">Its</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:98" start="122.733169" end="122.885261">v3r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:99" start="122.885261" end="123.063494">r\i</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:100" start="123.063494" end="123.766914"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:101" start="123.766914" end="123.947523">v3r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:102" start="123.947523" end="124.106744">r\i</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:103" start="124.106744" end="124.275471">Im</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:104" start="124.275471" end="124.524997">pOr\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:105" start="124.524997" end="124.736499">tnt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:106" start="124.736499" end="202.447047"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:107" start="202.447047" end="202.626413">M\@s</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:108" start="202.626413" end="202.807313">aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:109" start="202.807313" end="203.049709">nid</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:110" start="203.049709" end="203.168531">dIt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:111" start="203.168531" end="203.351516">fQ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:112" start="203.351516" end="203.539255">maI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:113" start="203.539255" end="203.941162">dZQb</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:114" start="203.941162" end="205.150465"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:115" start="205.150465" end="205.473661">w65</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:116" start="205.473661" end="205.877655">aIm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:117" start="205.877655" end="206.112922">v3</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:118" start="206.112922" end="206.286401">kIn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:119" start="206.286401" end="206.657125">In</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:120" start="206.657125" end="206.832981">D</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:121" start="206.832981" end="207.562541">saI@ns</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:122" start="207.562541" end="208.071098">{nt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:123" start="208.071098" end="209.047807"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:124" start="209.047807" end="209.326543">w65</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:125" start="209.326543" end="209.766183">fQ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:126" start="209.766183" end="210.037097"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:127" start="210.037097" end="210.191559">In</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:128" start="210.191559" end="210.353157">t@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:129" start="210.353157" end="210.445838">nE</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:130" start="210.445838" end="210.721504">Sl</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:131" start="210.721504" end="210.930630">kOn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:132" start="210.930630" end="211.120745">fr\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:133" start="211.120745" end="211.467705">r\Ins</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:134" start="211.467705" end="211.679207">It</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:135" start="211.679207" end="211.983391">Is</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:136" start="211.983391" end="212.270933"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:137" start="212.270933" end="212.712950">dZAst</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:138" start="212.712950" end="212.812760"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:139" start="212.812760" end="212.960099">Q</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:140" start="212.960099" end="213.399740">fU5</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:141" start="213.399740" end="213.587473"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:142" start="213.587473" end="213.782340">tU</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:143" start="213.782340" end="214.072265">r\id</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:144" start="214.072265" end="214.202969">D@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:145" start="214.202969" end="214.419225">lIt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:146" start="214.419225" end="214.611716">r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:147" start="214.611716" end="214.649739"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:148" start="214.649739" end="214.920653">lIt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:149" start="214.920653" end="215.144037">r\Et</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:150" start="215.144037" end="215.457727">S6</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:151" start="215.457727" end="215.818938">{nd</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:152" start="215.818938" end="216.807535"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:153" start="216.807535" end="217.232910">ty@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:154" start="217.232910" end="218.233389"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:155" start="218.233389" end="218.477502">kOm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:156" start="218.477502" end="218.593947">mji</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:157" start="218.593947" end="218.757921">nI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:158" start="218.757921" end="219.000978">keIt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:159" start="219.000978" end="219.278354">wID</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:160" start="219.278354" end="219.739382"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:161" start="219.739382" end="219.851075">A</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:162" start="219.851075" end="219.967520">D@</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:163" start="219.967520" end="220.409537">saI@n</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:164" start="220.409537" end="220.896706">tIsts</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:165" start="220.896706" end="221.089191">{n</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:166" start="221.089191" end="221.303070">sO</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:167" start="221.303070" end="221.609630">Qn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:168" start="221.609630" end="221.804498">sQ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:169" start="221.804498" end="221.949460">It</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:170" start="221.949460" end="222.068282">s</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:171" start="222.068282" end="222.189480">v3r\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:172" start="222.189480" end="222.301173">r\I</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:173" start="222.301173" end="222.431877">Im</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:174" start="222.431877" end="222.641003">pQ</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:175" start="222.641003" end="222.919046">tnt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:176" start="222.919046" end="255.934725"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:177" start="255.934725" end="256.072558">aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:178" start="256.072558" end="256.284061">wUl_}</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:179" start="256.284061" end="256.823512">sei</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:180" start="256.823512" end="257.256015"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:181" start="257.256015" end="257.410483">wEl</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:182" start="257.410483" end="257.847747">aIm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:183" start="257.847747" end="259.898603"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:184" start="259.898603" end="260.053072">aIm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:185" start="260.053072" end="260.259821">nQt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:186" start="260.259821" end="260.637675">fr\Qm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:187" start="260.637675" end="260.661439"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:188" start="260.661439" end="260.937980">fr\Qm</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:189" start="260.937980" end="261.136726">DIs</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:190" start="261.136726" end="261.403761">kAn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:191" start="261.403761" end="261.717450">tr\i</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:192" start="261.717450" end="262.110287">{nt</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:193" start="262.110287" end="262.262379">aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:194" start="262.262379" end="262.554680">wUd</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:195" start="262.554680" end="262.885005">laIM\</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:196" start="262.885005" end="262.975309">t</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:197" start="262.975309" end="263.258105">sEv</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:198" start="263.258105" end="263.526642">maI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:199" start="263.526642" end="265.910191"/>
+		<event e-id="ab_pol_eng_f_free_c1:syll:200" start="265.910191" end="266.059907">aI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:201" start="266.059907" end="266.307056">dEn</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:202" start="266.307056" end="266.454395">tI</event>
+		<event e-id="ab_pol_eng_f_free_c1:syll:203" start="266.454395" end="266.646886">ti</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:tones">
+		<meta m-id="ab_pol_eng_f_free_c1:tones:LeaP">
+			<desc><name>layer-interpretation</name><val>endpoint</val></desc>
+			<desc><name>layer-type</name><val>tones</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:tones:0" start="0" end="74.546613">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:1" start="74.546613" end="75.070377">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:2" start="75.070377" end="76.363770">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:3" start="76.363770" end="77.365227">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:4" start="77.365227" end="78.226044">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:5" start="78.226044" end="78.327887">H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:6" start="78.327887" end="83.025588">H+L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:7" start="83.025588" end="83.447509">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:8" start="83.447509" end="84.046444">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:9" start="84.046444" end="88.298583">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:10" start="88.298583" end="88.713230">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:11" start="88.713230" end="88.887818">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:12" start="88.887818" end="92.028378">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:13" start="92.028378" end="92.452724">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:14" start="92.452724" end="94.237800">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:15" start="94.237800" end="94.715493">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:16" start="94.715493" end="95.231983">H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:17" start="95.231983" end="95.862440">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:18" start="95.862440" end="96.141296">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:19" start="96.141296" end="98.816084">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:20" start="98.816084" end="99.131313">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:21" start="99.131313" end="99.334999">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:22" start="99.334999" end="99.778744">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:23" start="99.778744" end="109.597082">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:24" start="109.597082" end="110.096598">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:25" start="110.096598" end="110.547617">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:26" start="110.547617" end="110.908310">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:27" start="110.908310" end="111.322957">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:28" start="111.322957" end="111.432074">H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:29" start="111.432074" end="112.374321">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:30" start="112.374321" end="113.169667">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:31" start="113.169667" end="114.354195">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:32" start="114.354195" end="114.717920">H+!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:33" start="114.717920" end="115.450220">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:34" start="115.450220" end="116.224343">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:35" start="116.224343" end="116.993016">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:36" start="116.993016" end="117.742290">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:37" start="117.742290" end="117.960525">!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:38" start="117.960525" end="118.304852">!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:39" start="118.304852" end="118.595832">!H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:40" start="118.595832" end="119.969093">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:41" start="119.969093" end="120.121857">L-</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:42" start="120.121857" end="120.458909">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:43" start="120.458909" end="121.415503">!H-</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:44" start="121.415503" end="122.838678">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:45" start="122.838678" end="123.064188">H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:46" start="123.064188" end="123.886807">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:47" start="123.886807" end="124.442094">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:48" start="124.442094" end="124.735499">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:49" start="124.735499" end="203.012864">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:50" start="203.012864" end="203.859131">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:51" start="203.859131" end="203.941576">H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:52" start="203.941576" end="206.037436">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:53" start="206.037436" end="207.275514">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:54" start="207.275514" end="208.070860">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:55" start="208.070860" end="210.430419">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:56" start="210.430419" end="210.871739">^H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:57" start="210.871739" end="211.982314">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:58" start="211.982314" end="212.960529">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:59" start="212.960529" end="213.399424">!H-</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:60" start="213.399424" end="214.345110">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:61" start="214.345110" end="214.787232">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:62" start="214.787232" end="215.817787">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:63" start="215.817787" end="218.419830">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:64" start="218.419830" end="219.278222">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:65" start="219.278222" end="219.851895">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:66" start="219.851895" end="220.283516">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:67" start="220.283516" end="220.896999">H-</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:68" start="220.896999" end="221.454711">H+!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:69" start="221.454711" end="221.609901">!H-</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:70" start="221.609901" end="222.154069">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:71" start="222.154069" end="222.590540">!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:72" start="222.590540" end="222.917893">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:73" start="222.917893" end="256.073203">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:74" start="256.073203" end="256.674562">!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:75" start="256.674562" end="256.822477">!H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:76" start="256.822477" end="257.610549">H+!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:77" start="257.610549" end="257.848183">!H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:78" start="257.848183" end="260.183900">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:79" start="260.183900" end="260.637344">L%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:80" start="260.637344" end="260.832540">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:81" start="260.832540" end="261.324781">L*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:82" start="261.324781" end="262.762709">L+H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:83" start="262.762709" end="263.183008">!H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:84" start="263.183008" end="263.527334">!H%</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:85" start="263.527334" end="266.060274">H*</event>
+		<event e-id="ab_pol_eng_f_free_c1:tones:86" start="266.060274" end="266.647084">L%</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:hertz">
+		<meta m-id="ab_pol_eng_f_free_c1:hertz:LeaP">
+			<desc><name>layer-interpretation</name><val>endpoint</val></desc>
+			<desc><name>layer-type</name><val>hertz</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:0" start="0" end="74.464168">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:1" start="74.464168" end="74.793946">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:2" start="74.793946" end="76.339522">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:3" start="76.339522" end="77.328855">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:4" start="77.328855" end="82.826751">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:5" start="82.826751" end="83.001340">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:6" start="83.001340" end="83.428111">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:7" start="83.428111" end="83.760313">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:8" start="83.760313" end="88.802949">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:9" start="88.802949" end="91.953208">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:10" start="91.953208" end="92.292685">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:11" start="92.292685" end="98.823359">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:12" start="98.823359" end="99.087666">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:13" start="99.087666" end="99.325300">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:14" start="99.325300" end="109.575258">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:15" start="109.575258" end="110.082049">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:16" start="110.082049" end="113.113896">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:17" start="113.113896" end="114.310548">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:18" start="114.310548" end="116.980892">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:19" start="116.980892" end="117.298545">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:20" start="117.298545" end="117.558003">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:21" start="117.558003" end="119.958988">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:22" start="119.958988" end="120.169948">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:23" start="120.169948" end="120.400308">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:24" start="120.400308" end="123.867408">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:25" start="123.867408" end="206.003488">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:26" start="206.003488" end="207.258540">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:27" start="207.258540" end="214.760559">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:28" start="214.760559" end="218.400432">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:29" start="218.400432" end="219.140007">F</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:30" start="219.140007" end="260.159651">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:31" start="260.159651" end="260.808291">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:32" start="260.808291" end="261.305383">L</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:33" start="261.305383" end="262.692389">M</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:34" start="262.692389" end="266.009353">H</event>
+		<event e-id="ab_pol_eng_f_free_c1:hertz:35" start="266.009353" end="266.603437">F</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:words">
+		<meta m-id="ab_pol_eng_f_free_c1:words:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>words</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:words:0" start="0" end="74.420145"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:1" start="74.420145" end="74.676807">yes</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:2" start="74.676807" end="75.071295">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:3" start="75.071295" end="76.276143"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:4" start="76.276143" end="76.490017">only</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:5" start="76.490017" end="76.882129">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:6" start="76.882129" end="76.981939">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:7" start="76.981939" end="77.105514"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:8" start="77.105514" end="77.713881">quarter</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:9" start="77.713881" end="77.761404"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:10" start="77.761404" end="77.949143">of</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:11" start="77.949143" end="78.037071">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:12" start="78.037071" end="78.326996">year</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:13" start="78.326996" end="81.471006"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:14" start="81.471006" end="81.889259">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:15" start="81.889259" end="82.699623"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:16" start="82.699623" end="82.865967">two</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:17" start="82.865967" end="83.203420">weeks</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:18" start="83.203420" end="83.334109">in</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:19" start="83.334109" end="84.047039">oxford</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:20" start="84.047039" end="88.184396"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:21" start="88.184396" end="88.298583">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:22" start="88.298583" end="88.548341">san</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:23" start="88.548341" end="88.887820">diego</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:24" start="88.887820" end="91.711016"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:25" start="91.711016" end="92.452459">studying</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:26" start="92.452459" end="94.056176"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:27" start="94.056176" end="94.540969">graduate</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:28" start="94.540969" end="95.232511">courses</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:29" start="95.232511" end="95.455896"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:30" start="95.455896" end="95.629376">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:31" start="95.629376" end="95.862847">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:32" start="95.862847" end="96.140674">on</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:33" start="96.140674" end="98.184613"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:34" start="98.184613" end="98.555337">yes</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:35" start="98.555337" end="98.667029"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:36" start="98.667029" end="98.816745">i</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:37" start="98.816745" end="99.204104">enjoyed</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:38" start="99.204104" end="99.429865">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:39" start="99.429865" end="99.779201">much</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:40" start="99.779201" end="109.470339"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:41" start="109.470339" end="109.722235">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:42" start="109.722235" end="110.546858">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:43" start="110.546858" end="110.763114"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:44" start="110.763114" end="111.034023">cause</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:45" start="111.034023" end="111.114822">i</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:46" start="111.114822" end="111.433268">made</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:47" start="111.433268" end="111.927562"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:48" start="111.927562" end="112.027368">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:49" start="112.027368" end="112.830603">experience</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:50" start="112.830603" end="113.270243">that</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:51" start="113.270243" end="113.496005">i&apos;m</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:52" start="113.496005" end="113.728895">not</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:53" start="113.728895" end="114.446573">understood</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:54" start="114.446573" end="115.171385">correctly</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:55" start="115.171385" end="115.449428">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:56" start="115.449428" end="116.159972"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:57" start="116.159972" end="116.414251">people</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:58" start="116.414251" end="116.523567">are</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:59" start="116.523567" end="116.770716">all</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:60" start="116.770716" end="117.253132">looking</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:61" start="117.253132" end="117.393342">at</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:62" start="117.393342" end="117.780701">me</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:63" start="117.780701" end="118.184688">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:64" start="118.184688" end="118.595811">as</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:65" start="118.595811" end="119.246950"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:66" start="119.246950" end="119.303984">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:67" start="119.303984" end="119.527369">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:68" start="119.527369" end="120.121478">strange</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:69" start="120.121478" end="121.017388">appearance</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:70" start="121.017388" end="121.416629">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:71" start="121.416629" end="121.756459"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:72" start="121.756459" end="122.008361">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:73" start="122.008361" end="122.481267"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:74" start="122.481267" end="122.733169">it&apos;s</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:75" start="122.733169" end="123.063494">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:76" start="123.063494" end="123.766914"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:77" start="123.766914" end="124.106744">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:78" start="124.106744" end="124.736499">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:79" start="124.736499" end="202.447047"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:80" start="202.447047" end="202.626994">cause</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:81" start="202.626994" end="202.807313">i</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:82" start="202.807313" end="203.066344">need</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:83" start="203.066344" end="203.168531">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:84" start="203.168531" end="203.351516">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:85" start="203.351516" end="203.539255">my</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:86" start="203.539255" end="203.941162">job</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:87" start="203.941162" end="205.150465"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:88" start="205.150465" end="205.473661">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:89" start="205.473661" end="205.877655">i&apos;m</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:90" start="205.877655" end="206.286401">working</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:91" start="206.286401" end="206.657125">in</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:92" start="206.657125" end="206.832981">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:93" start="206.832981" end="207.562541">science</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:94" start="207.562541" end="208.071098">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:95" start="208.071098" end="209.047807"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:96" start="209.047807" end="209.326543">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:97" start="209.326543" end="209.766183">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:98" start="209.766183" end="210.037097"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:99" start="210.037097" end="210.721504">international</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:100" start="210.721504" end="211.467705">conference</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:101" start="211.467705" end="211.679207">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:102" start="211.679207" end="211.983391">is</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:103" start="211.983391" end="212.270933"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:104" start="212.270933" end="212.712950">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:105" start="212.712950" end="212.812760"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:106" start="212.812760" end="213.399740">awful</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:107" start="213.399740" end="213.587473"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:108" start="213.587473" end="213.782340">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:109" start="213.782340" end="214.072265">read</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:110" start="214.072265" end="214.202969">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:111" start="214.202969" end="214.611716">literature</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:112" start="214.611716" end="214.649739"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:113" start="214.649739" end="215.457727">literature</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:114" start="215.457727" end="215.818938">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:115" start="215.818938" end="216.807535"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:116" start="216.807535" end="217.232910">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:117" start="217.232910" end="218.233389"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:118" start="218.233389" end="219.000978">communicate</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:119" start="219.000978" end="219.278361">with</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:120" start="219.278361" end="219.739382"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:121" start="219.739382" end="219.967520">other</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:122" start="219.967520" end="220.896706">scientists</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:123" start="220.896706" end="221.089191">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:124" start="221.089191" end="221.303070">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:125" start="221.303070" end="221.609630">on</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:126" start="221.609630" end="221.804498">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:127" start="221.804498" end="221.949460">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:128" start="221.949460" end="222.068282">is</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:129" start="222.068282" end="222.301173">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:130" start="222.301173" end="222.919046">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:131" start="222.919046" end="255.934725"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:132" start="255.934725" end="256.072558">i</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:133" start="256.072558" end="256.284061">would</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:134" start="256.284061" end="256.823512">say</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:135" start="256.823512" end="257.256015"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:136" start="257.256015" end="257.410483">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:137" start="257.410483" end="257.847747">i&apos;m</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:138" start="257.847747" end="259.898603"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:139" start="259.898603" end="260.053072">i&apos;m</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:140" start="260.053072" end="260.259821">not</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:141" start="260.259821" end="260.637675">from</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:142" start="260.637675" end="260.661439"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:143" start="260.661439" end="260.936808">from</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:144" start="260.936808" end="261.136726">this</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:145" start="261.136726" end="261.717450">country</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:146" start="261.717450" end="262.110287">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:147" start="262.110287" end="262.262379">i</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:148" start="262.262379" end="262.554680">would</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:149" start="262.554680" end="262.885005">like</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:150" start="262.885005" end="262.975309">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:151" start="262.975309" end="263.258105">save</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:152" start="263.258105" end="263.526642">my</event>
+		<event e-id="ab_pol_eng_f_free_c1:words:153" start="263.526642" end="265.910191"/>
+		<event e-id="ab_pol_eng_f_free_c1:words:154" start="265.910191" end="266.646886">identity</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:lemma">
+		<meta m-id="ab_pol_eng_f_free_c1:lemma:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>lemma</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:0" start="0" end="74.420145"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:1" start="74.420145" end="74.676807">yes</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:2" start="74.676807" end="75.071295">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:3" start="75.071295" end="76.276143"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:4" start="76.276143" end="76.490017">only</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:5" start="76.490017" end="76.882129">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:6" start="76.882129" end="76.981939">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:7" start="76.981939" end="77.105514"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:8" start="77.105514" end="77.713881">quarter</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:9" start="77.713881" end="77.761404"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:10" start="77.761404" end="77.949143">of</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:11" start="77.949143" end="78.037071">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:12" start="78.037071" end="78.326996">year</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:13" start="78.326996" end="81.471006"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:14" start="81.471006" end="81.889259">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:15" start="81.889259" end="82.699623"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:16" start="82.699623" end="82.865967">two</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:17" start="82.865967" end="83.203420">week</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:18" start="83.203420" end="83.334109">in</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:19" start="83.334109" end="84.047039">Oxford</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:20" start="84.047039" end="88.184396"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:21" start="88.184396" end="88.298583">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:22" start="88.298583" end="88.548341">San</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:23" start="88.548341" end="88.887820">Diego</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:24" start="88.887820" end="91.711016"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:25" start="91.711016" end="92.452459">study</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:26" start="92.452459" end="94.056176"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:27" start="94.056176" end="94.540969">graduate</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:28" start="94.540969" end="95.232511">course</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:29" start="95.232511" end="95.455896"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:30" start="95.455896" end="95.629376">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:31" start="95.629376" end="95.862847">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:32" start="95.862847" end="96.140674">on</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:33" start="96.140674" end="98.184613"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:34" start="98.184613" end="98.555337">yes</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:35" start="98.555337" end="98.667029"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:36" start="98.667029" end="98.816745">I</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:37" start="98.816745" end="99.204104">enjoy</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:38" start="99.204104" end="99.429865">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:39" start="99.429865" end="99.779201">much</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:40" start="99.779201" end="109.470339"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:41" start="109.470339" end="109.722235">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:42" start="109.722235" end="110.546858">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:43" start="110.546858" end="110.763114"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:44" start="110.763114" end="111.034023">cause</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:45" start="111.034023" end="111.114822">I</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:46" start="111.114822" end="111.433268">make</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:47" start="111.433268" end="111.927562"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:48" start="111.927562" end="112.027368">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:49" start="112.027368" end="112.830603">experience</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:50" start="112.830603" end="113.270243">that</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:51" start="113.270243" end="113.496005"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:52" start="113.496005" end="113.728895">not</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:53" start="113.728895" end="114.446573">understand</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:54" start="114.446573" end="115.171385">correctly</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:55" start="115.171385" end="115.449428">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:56" start="115.449428" end="116.159972"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:57" start="116.159972" end="116.414251">people</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:58" start="116.414251" end="116.523567">be</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:59" start="116.523567" end="116.770716">all</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:60" start="116.770716" end="117.253132">look</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:61" start="117.253132" end="117.393342">at</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:62" start="117.393342" end="117.780701">me</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:63" start="117.780701" end="118.184688">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:64" start="118.184688" end="118.595811">as</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:65" start="118.595811" end="119.246950"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:66" start="119.246950" end="119.303984">a</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:67" start="119.303984" end="119.527369">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:68" start="119.527369" end="120.121478">strange</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:69" start="120.121478" end="121.017388">appearance</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:70" start="121.017388" end="121.416629">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:71" start="121.416629" end="121.756459"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:72" start="121.756459" end="122.008361">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:73" start="122.008361" end="122.481267"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:74" start="122.481267" end="122.733169">unknown&amp;gt;</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:75" start="122.733169" end="123.063494">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:76" start="123.063494" end="123.766914"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:77" start="123.766914" end="124.106744">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:78" start="124.106744" end="124.736499">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:79" start="124.736499" end="202.447047"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:80" start="202.447047" end="202.626994">cause</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:81" start="202.626994" end="202.807313">I</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:82" start="202.807313" end="203.066344">need</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:83" start="203.066344" end="203.168531">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:84" start="203.168531" end="203.351516">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:85" start="203.351516" end="203.539255">my</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:86" start="203.539255" end="203.941162">job</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:87" start="203.941162" end="205.150465"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:88" start="205.150465" end="205.473661">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:89" start="205.473661" end="205.877655"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:90" start="205.877655" end="206.286401">work</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:91" start="206.286401" end="206.657125">in</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:92" start="206.657125" end="206.832981">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:93" start="206.832981" end="207.562541">science</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:94" start="207.562541" end="208.071098">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:95" start="208.071098" end="209.047807"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:96" start="209.047807" end="209.326543">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:97" start="209.326543" end="209.766183">for</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:98" start="209.766183" end="210.037097"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:99" start="210.037097" end="210.721504">international</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:100" start="210.721504" end="211.467705">conference</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:101" start="211.467705" end="211.679207">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:102" start="211.679207" end="211.983391">be</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:103" start="211.983391" end="212.270933"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:104" start="212.270933" end="212.712950">just</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:105" start="212.712950" end="212.812760"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:106" start="212.812760" end="213.399740">awful</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:107" start="213.399740" end="213.587473"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:108" start="213.587473" end="213.782340">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:109" start="213.782340" end="214.072265">read</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:110" start="214.072265" end="214.202969">the</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:111" start="214.202969" end="214.611716">literature</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:112" start="214.611716" end="214.649739"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:113" start="214.649739" end="215.457727">literature</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:114" start="215.457727" end="215.818938">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:115" start="215.818938" end="216.807535"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:116" start="216.807535" end="217.232910">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:117" start="217.232910" end="218.233389"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:118" start="218.233389" end="219.000978">communicate</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:119" start="219.000978" end="219.278361">with</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:120" start="219.278361" end="219.739382"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:121" start="219.739382" end="219.967520">other</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:122" start="219.967520" end="220.896706">scientist</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:123" start="220.896706" end="221.089191">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:124" start="221.089191" end="221.303070">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:125" start="221.303070" end="221.609630">on</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:126" start="221.609630" end="221.804498">so</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:127" start="221.804498" end="221.949460">it</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:128" start="221.949460" end="222.068282">be</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:129" start="222.068282" end="222.301173">very</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:130" start="222.301173" end="222.919046">important</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:131" start="222.919046" end="255.934725"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:132" start="255.934725" end="256.072558">I</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:133" start="256.072558" end="256.284061">would</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:134" start="256.284061" end="256.823512">say</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:135" start="256.823512" end="257.256015"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:136" start="257.256015" end="257.410483">well</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:137" start="257.410483" end="257.847747"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:138" start="257.847747" end="259.898603"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:139" start="259.898603" end="260.053072"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:140" start="260.053072" end="260.259821">not</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:141" start="260.259821" end="260.637675">from</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:142" start="260.637675" end="260.661439"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:143" start="260.661439" end="260.936808">from</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:144" start="260.936808" end="261.136726">this</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:145" start="261.136726" end="261.717450">country</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:146" start="261.717450" end="262.110287">and</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:147" start="262.110287" end="262.262379">I</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:148" start="262.262379" end="262.554680">would</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:149" start="262.554680" end="262.885005">like</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:150" start="262.885005" end="262.975309">to</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:151" start="262.975309" end="263.258105">save</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:152" start="263.258105" end="263.526642">my</event>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:153" start="263.526642" end="265.910191"/>
+		<event e-id="ab_pol_eng_f_free_c1:lemma:154" start="265.910191" end="266.646886">identity</event>
+	</layer>
+	<layer l-id="ab_pol_eng_f_free_c1:pos">
+		<meta m-id="ab_pol_eng_f_free_c1:pos:LeaP">
+			<desc><name>layer-interpretation</name><val>interval</val></desc>
+			<desc><name>layer-type</name><val>pos</val></desc>
+		</meta>
+		<event e-id="ab_pol_eng_f_free_c1:pos:0" start="0" end="74.420145"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:1" start="74.420145" end="74.676807">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:2" start="74.676807" end="75.071295">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:3" start="75.071295" end="76.276143"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:4" start="76.276143" end="76.490017">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:5" start="76.490017" end="76.882129">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:6" start="76.882129" end="76.981939">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:7" start="76.981939" end="77.105514"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:8" start="77.105514" end="77.713881">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:9" start="77.713881" end="77.761404"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:10" start="77.761404" end="77.949143">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:11" start="77.949143" end="78.037071">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:12" start="78.037071" end="78.326996">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:13" start="78.326996" end="81.471006"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:14" start="81.471006" end="81.889259">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:15" start="81.889259" end="82.699623"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:16" start="82.699623" end="82.865967">CD</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:17" start="82.865967" end="83.203420">NNS</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:18" start="83.203420" end="83.334109">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:19" start="83.334109" end="84.047039">NP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:20" start="84.047039" end="88.184396"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:21" start="88.184396" end="88.298583">TO</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:22" start="88.298583" end="88.548341">NP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:23" start="88.548341" end="88.887820">NP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:24" start="88.887820" end="91.711016"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:25" start="91.711016" end="92.452459">VVG</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:26" start="92.452459" end="94.056176"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:27" start="94.056176" end="94.540969">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:28" start="94.540969" end="95.232511">NNS</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:29" start="95.232511" end="95.455896"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:30" start="95.455896" end="95.629376">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:31" start="95.629376" end="95.862847">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:32" start="95.862847" end="96.140674">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:33" start="96.140674" end="98.184613"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:34" start="98.184613" end="98.555337">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:35" start="98.555337" end="98.667029"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:36" start="98.667029" end="98.816745">FW</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:37" start="98.816745" end="99.204104">VVN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:38" start="99.204104" end="99.429865">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:39" start="99.429865" end="99.779201">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:40" start="99.779201" end="109.470339"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:41" start="109.470339" end="109.722235">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:42" start="109.722235" end="110.546858">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:43" start="110.546858" end="110.763114"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:44" start="110.763114" end="111.034023">VV</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:45" start="111.034023" end="111.114822">FW</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:46" start="111.114822" end="111.433268">VVN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:47" start="111.433268" end="111.927562"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:48" start="111.927562" end="112.027368">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:49" start="112.027368" end="112.830603">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:50" start="112.830603" end="113.270243">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:51" start="113.270243" end="113.496005"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:52" start="113.496005" end="113.728895">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:53" start="113.728895" end="114.446573">VVN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:54" start="114.446573" end="115.171385">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:55" start="115.171385" end="115.449428">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:56" start="115.449428" end="116.159972"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:57" start="116.159972" end="116.414251">NNS</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:58" start="116.414251" end="116.523567">VBP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:59" start="116.523567" end="116.770716">PDT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:60" start="116.770716" end="117.253132">VVG</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:61" start="117.253132" end="117.393342">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:62" start="117.393342" end="117.780701">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:63" start="117.780701" end="118.184688">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:64" start="118.184688" end="118.595811">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:65" start="118.595811" end="119.246950"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:66" start="119.246950" end="119.303984">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:67" start="119.303984" end="119.527369">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:68" start="119.527369" end="120.121478">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:69" start="120.121478" end="121.017388">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:70" start="121.017388" end="121.416629">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:71" start="121.416629" end="121.756459"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:72" start="121.756459" end="122.008361">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:73" start="122.008361" end="122.481267"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:74" start="122.481267" end="122.733169">NNS</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:75" start="122.733169" end="123.063494">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:76" start="123.063494" end="123.766914"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:77" start="123.766914" end="124.106744">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:78" start="124.106744" end="124.736499">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:79" start="124.736499" end="202.447047"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:80" start="202.447047" end="202.626994">VV</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:81" start="202.626994" end="202.807313">FW</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:82" start="202.807313" end="203.066344">VVP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:83" start="203.066344" end="203.168531">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:84" start="203.168531" end="203.351516">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:85" start="203.351516" end="203.539255">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:86" start="203.539255" end="203.941162">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:87" start="203.941162" end="205.150465"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:88" start="205.150465" end="205.473661">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:89" start="205.473661" end="205.877655"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:90" start="205.877655" end="206.286401">VVG</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:91" start="206.286401" end="206.657125">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:92" start="206.657125" end="206.832981">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:93" start="206.832981" end="207.562541">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:94" start="207.562541" end="208.071098">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:95" start="208.071098" end="209.047807"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:96" start="209.047807" end="209.326543">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:97" start="209.326543" end="209.766183">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:98" start="209.766183" end="210.037097"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:99" start="210.037097" end="210.721504">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:100" start="210.721504" end="211.467705">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:101" start="211.467705" end="211.679207">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:102" start="211.679207" end="211.983391">VBZ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:103" start="211.983391" end="212.270933"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:104" start="212.270933" end="212.712950">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:105" start="212.712950" end="212.812760"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:106" start="212.812760" end="213.399740">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:107" start="213.399740" end="213.587473"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:108" start="213.587473" end="213.782340">TO</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:109" start="213.782340" end="214.072265">VVP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:110" start="214.072265" end="214.202969">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:111" start="214.202969" end="214.611716">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:112" start="214.611716" end="214.649739"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:113" start="214.649739" end="215.457727">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:114" start="215.457727" end="215.818938">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:115" start="215.818938" end="216.807535"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:116" start="216.807535" end="217.232910">TO</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:117" start="217.232910" end="218.233389"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:118" start="218.233389" end="219.000978">VV</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:119" start="219.000978" end="219.278361">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:120" start="219.278361" end="219.739382"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:121" start="219.739382" end="219.967520">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:122" start="219.967520" end="220.896706">NNS</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:123" start="220.896706" end="221.089191">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:124" start="221.089191" end="221.303070">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:125" start="221.303070" end="221.609630">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:126" start="221.609630" end="221.804498">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:127" start="221.804498" end="221.949460">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:128" start="221.949460" end="222.068282">VBZ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:129" start="222.068282" end="222.301173">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:130" start="222.301173" end="222.919046">JJ</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:131" start="222.919046" end="255.934725"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:132" start="255.934725" end="256.072558">FW</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:133" start="256.072558" end="256.284061">MD</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:134" start="256.284061" end="256.823512">VVP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:135" start="256.823512" end="257.256015"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:136" start="257.256015" end="257.410483">UH</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:137" start="257.410483" end="257.847747"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:138" start="257.847747" end="259.898603"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:139" start="259.898603" end="260.053072"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:140" start="260.053072" end="260.259821">RB</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:141" start="260.259821" end="260.637675">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:142" start="260.637675" end="260.661439"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:143" start="260.661439" end="260.936808">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:144" start="260.936808" end="261.136726">DT</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:145" start="261.136726" end="261.717450">NN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:146" start="261.717450" end="262.110287">CC</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:147" start="262.110287" end="262.262379">FW</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:148" start="262.262379" end="262.554680">MD</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:149" start="262.554680" end="262.885005">IN</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:150" start="262.885005" end="262.975309">TO</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:151" start="262.975309" end="263.258105">VV</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:152" start="263.258105" end="263.526642">PP</event>
+		<event e-id="ab_pol_eng_f_free_c1:pos:153" start="263.526642" end="265.910191"/>
+		<event e-id="ab_pol_eng_f_free_c1:pos:154" start="265.910191" end="266.646886">NN</event>
+	</layer>
+</session>
